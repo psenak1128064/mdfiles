@@ -1,0 +1,2 @@
+ - https://frcth.uniba.sk/fileadmin/rkcmbf/umela_inteligencia/PS-RKCMBF_UK-AI_vo_vzdelavani.pdf
+ - https://www.canva.com/design/DAFrzclU9cw/5HKFQYth2ot6vHNAf26E7w/edit
