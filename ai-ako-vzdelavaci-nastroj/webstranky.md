@@ -9,7 +9,7 @@ Perplexity AI - generatívny systém AI, ktorý na rozdiel od napr. ChatGPT nepr
 čo najlepšie generovanie textu, ale sa zameriava na presné a zdrojmi podložené
 informácie. Preplexity AI je prezentované ako vhodný nástroj pre výskum (https://www.perplexity.ai/)
 
-duckduckgo.com/chat - Anonymná AI chatovacia služba bez potreby na účet
+https://duckduckgo.com/chat - Anonymná AI chatovacia služba bez potreby na účet
 ## Multimodálne generatívne systémy AI (text, obrázky, video,...)
 Dall-E - generovanie obrázkov na základe textového vstupu (text-to-image) z dielne
 Open AI. Dall-E je integrovaný do platenej verzie ChatGPT (https://chatgpt.com)
@@ -56,3 +56,8 @@ zadaného textu alebo témy, pričom vie doplniť aj obrázky) (https://www.slid
 
 ## Iné nástroje
 jungleai.com - AI generátor na kvízy (https://jungleai.com)
+
+## Zdroje
+https://frcth.uniba.sk/fileadmin/rkcmbf/umela_inteligencia/PS-RKCMBF_UK-AI_vo_vzdelavani.pdf
+https://aidetem.cz/ai-nastroje-pro-pedagogickou-praxi/
+vlastna skusenost
