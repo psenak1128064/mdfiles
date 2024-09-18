@@ -59,5 +59,7 @@ jungleai.com - AI generátor na kvízy (https://jungleai.com)
 
 ## Zdroje
 https://frcth.uniba.sk/fileadmin/rkcmbf/umela_inteligencia/PS-RKCMBF_UK-AI_vo_vzdelavani.pdf
+
 https://aidetem.cz/ai-nastroje-pro-pedagogickou-praxi/
+
 vlastna skusenost
