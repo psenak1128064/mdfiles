@@ -41,18 +41,18 @@ Transkriptor - prepis nahrávok (rýchly a kvalitný, no platený) (https://tran
 
 ## Pomôcky pre pedagógov
 PromptBase - rozsiahla databáza promptov/vstupov pre rôzne generatívne systémy AI
-(ChatGPT, Dall-E, Stable Diffusion, Midjourney, Llama,...)
+(ChatGPT, Dall-E, Stable Diffusion, Midjourney, Llama,...) (https://promptbase.com/)
 
 Eduaide.Ai - platforma založená na umelej inteligencii, ktorá pomáha pedagógom vytvárať
-plány hodín, učebné zdroje a hodnotenia
+plány hodín, učebné zdroje a hodnotenia (https://www.eduaide.ai/)
 
-ClassPoint - prezentačné nástroje a vytváranie kvízo a testov pomocou umelej inteligencie
+ClassPoint - prezentačné nástroje a vytváranie kvízov a testov pomocou umelej inteligencie v powerpointe (https://www.classpoint.io/)
 
 Gradescope - spracovanie, hodnotenie a vytváranie spätných väzieb na písomné práce
-študentov
+študentov (https://www.gradescope.com/)
 
 Slides AI - generovanie prezentácií nástrojmi umelej inteligencie (generuje slajdy podľa
-zadaného textu alebo témy, pričom vie doplniť aj obrázky)
+zadaného textu alebo témy, pričom vie doplniť aj obrázky) (https://www.slidesai.io/)
 
 ## Iné nástroje
-jungleai.com - AI generátor na kvízy 
+jungleai.com - AI generátor na kvízy (https://jungleai.com)
