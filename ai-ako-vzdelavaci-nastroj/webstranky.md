@@ -15,7 +15,7 @@ Dall-E - generovanie obrázkov na základe textového vstupu (text-to-image) z d
 Open AI. Dall-E je integrovaný do platenej verzie ChatGPT (https://chatgpt.com)
 
 Midjourney - generovanie obrázkov na základe textového vstupu (text-to-image)
-z dielne Midjourney research lab (https://www.midjourney.com)
+z dielne Midjourney research lab (https://discord.gg/midjourney)
 
 Firefly - generátor obrázkov zrozumiteľný pre bežného človeka z dieľne Adobe (https://firefly.adobe.com)
 
